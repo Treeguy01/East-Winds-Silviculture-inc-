@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Silviculture Website</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#resources">Resources</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="about">
+        <h1>About Silviculture</h1>
+        <p>Silviculture is the practice of controlling the establishment, growth, composition, health, and quality of forests to meet diverse needs and values.</p>
+      </section>
+      <section id="services">
+        <h1>Our Services</h1>
+        <ul>
+          <li>Forest management</li>
+          <li>Tree planting and reforestation</li>
+          <li>Thinning and pruning</li>
+        </ul>
+      </section>
+      <section id="resources">
+        <h1>Resources</h1>
+        <ul>
+          <li><a href="https://www.fs.usda.gov/silviculture">USDA Forest Service Silviculture</a></li>
+          <li><a href="https://www.sfwda.org/silviculture">Southern Forest Watershed Association Silviculture</a></li>
+        </ul>
+      </section>
+      <section id="contact">
+        <h1>Contact Us</h1>
+        <p>Email: info@silviculture.com</p>
+        <p>Phone: 555-555-5555</p>
+      </section>
+    </main>
+    <footer>
+      <p>Copyright © 2021 Silviculture Website</p>
+    </footer>
+  </body>
+</html>
